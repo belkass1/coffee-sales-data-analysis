@@ -6,7 +6,7 @@ This project is an **end-to-end sales data analysis project built with Microsoft
 
 The analysis combines **orders, customers, and products data** to explore sales performance, customer behavior, product characteristics, and geographic trends.
 
-The project demonstrates practical **Data Analyst skills**, including data preparation, data enrichment, analytical modeling, Pivot Tables, data visualization, and dashboard development.
+The project demonstrates practical **Data Analyst skills**, including data preparation, data enrichment, Pivot Tables, data visualization, and dashboard development.
 
 ---
 
@@ -21,6 +21,14 @@ The main objectives of this project are to:
 * Understand customer and product characteristics
 * Transform raw transactional data into actionable insights
 * Build an interactive and easy-to-understand sales dashboard
+
+---
+
+## 📊 Dashboard
+
+![Coffee Sales Dashboard](images/dashboard.png)
+
+The dashboard provides a visual overview of the main sales KPIs and analytical results, including sales trends, country performance, product performance, and top customers.
 
 ---
 
@@ -132,24 +140,7 @@ Customer loyalty card information is incorporated into the dataset to support po
 
 ---
 
-## 📊 Dashboard
-
-The final dashboard brings together the main analytical outputs into a centralized visual interface.
-
-It provides a high-level overview of:
-
-* Sales performance
-* Sales trends
-* Country performance
-* Coffee type performance
-* Top customers
-* Key business metrics
-
-The objective is to make the analysis **easy to understand and useful for business decision-making**.
-
----
-
-## 💡 Business Value
+## 📊 Business Value
 
 This project demonstrates how raw transactional data can be transformed into structured information and business insights.
 
@@ -177,11 +168,12 @@ This project showcases practical skills relevant to a **Junior Data Analyst / Da
 ```text
 coffee-sales-data-analysis/
 │
-├── coffeeOrdersFullProject.xlsx
-└── README.md
+├── README.md
+├── Coffee_Sales_Data_Analysis.xlsx
+│
+└── images/
+    └── dashboard.png
 ```
 
----
 
-
-⭐ If you find this project useful, feel free to explore the analysis and dashboards.
+⭐ If you find this project useful, feel free to explore the analysis and dashboard.
